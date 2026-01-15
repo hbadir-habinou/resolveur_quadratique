@@ -86,14 +86,3 @@ Le serveur sera lancé à l'adresse `http://127.0.0.1:8000/`.
 4.  L'application affichera les résultats détaillés (racines, discriminant) et le graphique de la parabole.
 
 ---
-
-## Proposition de Nom de Dépôt
-
-Pour améliorer la clarté et la concision, je suggère les noms suivants :
-
-| Nom Proposé | Avantage |
-| :--- | :--- |
-| **`django-quad-solver`** | Clair, concis, et indique immédiatement le framework et la fonction. |
-| **`quadratic-web-plotter`** | Met l'accent sur la fonction de résolution et le tracé graphique. |
-
-Je recommande **`django-quad-solver`** pour son aspect professionnel et informatif.
